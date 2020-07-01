@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+.wrapper {
+  margin: 50px auto;
+  width: 900px;
+  height: 900px;
+  background-color: lightgray;
+}
+
+#ticTacToe {
+  height: inherit;
+  width: inherit;
+  
+}
+
+.cell { 
+  width: 295px;
+  height: 295px;
+  font-size: 72px;
+  font-weight: bold;
+}
